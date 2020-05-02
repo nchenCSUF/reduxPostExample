@@ -1,2 +1,0 @@
-# reduxPostExample
-Created with CodeSandbox
